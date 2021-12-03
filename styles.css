@@ -150,6 +150,12 @@ ul {
     color: white;
 }
 
+.bubble {
+    background: whitesmoke;
+    border: 6px solid darkorchid;
+    border-radius: 30px;
+}
+
 .footer {
     justify-content: center;
 }
